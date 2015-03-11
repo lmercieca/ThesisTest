@@ -44,3 +44,6 @@ D:\Development\Thesis\trunk\Mutation\TestProject\Console\FundPlatform.Console\bi
 D:\Development\Thesis\trunk\Mutation\TestProject\Console\FundPlatform.Console\bin\Debug\TestProject.dll
 D:\Development\Thesis\trunk\Mutation\TestProject\Console\FundPlatform.Console\bin\Debug\TestProject.pdb
 D:\Development\Thesis\trunk\Mutation\TestProject\Console\FundPlatform.Console\obj\x86\Debug\FundPlatformConsole.csprojResolveAssemblyReference.cache
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\Console\FundPlatform.Console\bin\Debug\FundPlatformConsole.exe.config
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\Console\FundPlatform.Console\obj\x86\Debug\FundPlatformConsole.exe
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\Console\FundPlatform.Console\obj\x86\Debug\FundPlatformConsole.pdb

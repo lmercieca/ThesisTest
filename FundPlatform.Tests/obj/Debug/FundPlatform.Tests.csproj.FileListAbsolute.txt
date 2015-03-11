@@ -62,3 +62,15 @@ D:\Development\Thesis\trunk\Mutation\TestProject\FundPlatform.Tests\bin\Debug\nu
 D:\Development\Thesis\trunk\Mutation\TestProject\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.csprojResolveAssemblyReference.cache
 D:\Development\Thesis\trunk\Mutation\TestProject\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.dll
 D:\Development\Thesis\trunk\Mutation\TestProject\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\FundPlatform.Tests.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\FundPlatform.Tests.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\Moq.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\nunit.framework.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\TestProject.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\TestProject.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\Moq.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\Moq.xml
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\bin\Debug\nunit.framework.xml
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.csprojResolveAssemblyReference.cache
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.pdb

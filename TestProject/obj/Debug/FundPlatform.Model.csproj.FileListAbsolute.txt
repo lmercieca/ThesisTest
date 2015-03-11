@@ -28,3 +28,8 @@ D:\Development\Thesis\trunk\Mutation\TestProject\TestProject\bin\Debug\TestProje
 D:\Development\Thesis\trunk\Mutation\TestProject\TestProject\obj\Debug\FundPlatform.Model.csprojResolveAssemblyReference.cache
 D:\Development\Thesis\trunk\Mutation\TestProject\TestProject\obj\Debug\TestProject.dll
 D:\Development\Thesis\trunk\Mutation\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\bin\Debug\TestProject.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\bin\Debug\TestProject.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\obj\Debug\FundPlatform.Model.csprojResolveAssemblyReference.cache
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\obj\Debug\TestProject.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\obj\Debug\TestProject.pdb

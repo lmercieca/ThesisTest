@@ -169,7 +169,7 @@ namespace TestProject
                 else
                 {
 
-                    Funds[fnd] = Funds[fnd] - amount;
+                    Funds[fnd] = Funds[fnd] - amount + 0;
                     AddBalanceToAccount(fnd.Currency, amount, false);
 
                     TransactionHistory.Add(new Transaction(TransType.Sell, Accounts[fnd.Currency].Balance, Accounts[fnd.Currency].Balance - amount, fnd, fnd.Currency));

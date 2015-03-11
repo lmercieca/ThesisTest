@@ -1,0 +1,17 @@
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.dll.config
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.dll
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.pdb
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\ILLogger\obj\Debug\ILLogger.dll
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\ILLogger\obj\Debug\ILLogger.pdb
+C:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.dll.config
+C:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.dll
+C:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.pdb
+C:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\obj\Debug\ILLogger.dll
+C:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\obj\Debug\ILLogger.pdb
+C:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\obj\Debug\ILLogger.csprojResolveAssemblyReference.cache
+D:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.dll.config
+D:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\bin\Debug\ILLogger.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\obj\Debug\ILLogger.csprojResolveAssemblyReference.cache
+D:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\obj\Debug\ILLogger.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\ILLogger\obj\Debug\ILLogger.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
+  <TopNode>[0-1000]D:\Development\Thesis\trunk\Mutation\TestProject\FundPlatform.Tests\FundPlatform.Tests.csproj</TopNode>
+  <SelectedNode>[0-1000]D:\Development\Thesis\trunk\Mutation\TestProject\FundPlatform.Tests\FundPlatform.Tests.csproj</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]D:\Development\Thesis\trunk\Mutation\TestProject\FundPlatform.Tests\FundPlatform.Tests.csproj" Expanded="true" />
+    <Node UniqueName="[0-1045]D:\Development\Thesis\trunk\Mutation\TestProject\FundPlatform.Tests\bin\Debug\FundPlatform.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1046]FundPlatform" Expanded="true" />
+    <Node UniqueName="[0-1047]FundPlatform.Tests" Expanded="true" />
+    <Node UniqueName="[0-1001]FundPlatform.Tests.TestClient" Expanded="true" />
+    <Node UniqueName="[0-1012]FundPlatform.Tests.TestClient.TestBuy" Expanded="true" />
+    <Node UniqueName="[0-1016]FundPlatform.Tests.TestClient.TestBuyFX" Expanded="true" />
+    <Node UniqueName="[0-1014]FundPlatform.Tests.TestClient.TestBuyTransactions" Expanded="true" />
+    <Node UniqueName="[0-1018]FundPlatform.Tests.TestClient.TestBuyTransactionsFX" Expanded="true" />
+    <Node UniqueName="[0-1034]FundPlatform.Tests.TestClient.TestBuyTransactionsWithoutBalance" Expanded="true" />
+    <Node UniqueName="[0-1004]FundPlatform.Tests.TestClient.TestCashDisbursement" Expanded="true" />
+    <Node UniqueName="[0-1006]FundPlatform.Tests.TestClient.TestCashDisbursementAndCloseAccount" Expanded="true" />
+    <Node UniqueName="[0-1002]FundPlatform.Tests.TestClient.TestCashTransfer" Expanded="true" />
+    <Node UniqueName="[0-1010]FundPlatform.Tests.TestClient.TestCashTransferTransaction" Expanded="true" />
+    <Node UniqueName="[0-1008]FundPlatform.Tests.TestClient.TestDoubleCashTransfer" Expanded="true" />
+    <Node UniqueName="[0-1036]FundPlatform.Tests.TestClient.TestInvalidCashDisbursement" Expanded="true" />
+    <Node UniqueName="[0-1038]FundPlatform.Tests.TestClient.TestInvalidCashDisbursementWithBalance" Expanded="true" />
+    <Node UniqueName="[0-1020]FundPlatform.Tests.TestClient.TestPartialSell" Expanded="true" />
+    <Node UniqueName="[0-1022]FundPlatform.Tests.TestClient.TestSellAll" Expanded="true" />
+    <Node UniqueName="[0-1032]FundPlatform.Tests.TestClient.TestSellInvalidPartial" Expanded="true" />
+    <Node UniqueName="[0-1024]FundPlatform.Tests.TestClient.TestSellOverMultipleAccounts" Expanded="true" />
+    <Node UniqueName="[0-1026]FundPlatform.Tests.TestClient.TestSellTransactions" Expanded="true" />
+    <Node UniqueName="[0-1028]FundPlatform.Tests.TestClient.TestSellTransactionsFX" Expanded="true" />
+    <Node UniqueName="[0-1030]FundPlatform.Tests.TestClient.TestSellTransactionsWithoutBalance" Expanded="true" />
+    <Node UniqueName="[0-1040]FundPlatform.Tests.TestFundManager" Expanded="true" />
+    <Node UniqueName="[0-1041]FundPlatform.Tests.TestFundManager.TestBuyFund" Expanded="true" />
+    <Node UniqueName="[0-1043]FundPlatform.Tests.TestFundManager.TestSellFund" Expanded="true" />
+  </Nodes>
+</VisualState>

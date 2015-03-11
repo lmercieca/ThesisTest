@@ -1,0 +1,11 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Debug" />
+  <Config name="Debug" binpathtype="Auto">
+    <assembly path="FundPlatformTests.dll" />
+    <assembly path="FundPlatformTests.dll" />
+    <assembly path="FundPlatformTests.dll" />
+    <assembly path="FundPlatformTests.dll" />
+    <assembly path="FundPlatform.Tests.dll" />
+  </Config>
+  <Config name="Release" binpathtype="Auto" />
+</NUnitProject>

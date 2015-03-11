@@ -1,0 +1,5 @@
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\PostSharp\obj\Debug\PostSharp.csprojResolveAssemblyReference.cache
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\PostSharp\bin\Debug\PostSharp.dll
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\PostSharp\bin\Debug\PostSharp.xml
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\PostSharp\obj\Debug\PostSharp.dll
+C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\PostSharp\obj\Debug\PostSharp.pdb

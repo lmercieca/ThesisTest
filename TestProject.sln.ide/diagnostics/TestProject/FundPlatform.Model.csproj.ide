@@ -1,0 +1,28 @@
+﻿<Project Format="0.0.0.3">
+  <Version>2013-10-31T12:29:01.3275021Z</Version>
+  <Binding>True</Binding>
+  <Diagnostic>
+    <Code>1029</Code>
+    <Id>CS1029</Id>
+    <Severity>Error</Severity>
+    <Message>#error: 'PostSharp is not introduced in the build process. If NuGet just restored the PostSharp package, you need to rebuild the solution.'</Message>
+    <MappedFile>C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\TestProject\RequiresPostSharp.cs</MappedFile>
+    <MappedLine>9</MappedLine>
+    <MappedColumn>7</MappedColumn>
+    <OriginalFile>C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\TestProject\RequiresPostSharp.cs</OriginalFile>
+    <OriginalLine>9</OriginalLine>
+    <OriginalColumn>7</OriginalColumn>
+  </Diagnostic>
+  <Diagnostic>
+    <Code>219</Code>
+    <Id>CS0219</Id>
+    <Severity>Warning</Severity>
+    <Message>The variable 'i' is assigned but its value is never used</Message>
+    <MappedFile>C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\TestProject\AccountManager.cs</MappedFile>
+    <MappedLine>16</MappedLine>
+    <MappedColumn>16</MappedColumn>
+    <OriginalFile>C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\TestProject\AccountManager.cs</OriginalFile>
+    <OriginalLine>16</OriginalLine>
+    <OriginalColumn>16</OriginalColumn>
+  </Diagnostic>
+</Project>

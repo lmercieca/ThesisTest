@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Development\Thesis\trunk\Mutation\TestProject\TestingILRewrite\Project4.nunit" total="105" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-11-14" time="21:43:45">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="LOUI-PC" user="Loui" user-domain="Loui-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\Development\Thesis\trunk\Mutation\TestProject\TestingILRewrite\Project4.nunit" executed="True" result="Success" success="True" time="23.646" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Development\Thesis\trunk\Mutation\TestProject\TestingILRewrite\FundPlatform.Tests.dll" executed="True" result="Success" success="True" time="4.355" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="FundPlatform" executed="True" result="Success" success="True" time="4.354" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="4.354" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="TestClient" executed="True" result="Success" success="True" time="3.967" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuy" executed="True" result="Success" success="True" time="0.412" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuy()" executed="True" result="Success" success="True" time="0.397" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyFX" executed="True" result="Success" success="True" time="0.169" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyFX()" executed="True" result="Success" success="True" time="0.168" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactions" executed="True" result="Success" success="True" time="0.120" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactions()" executed="True" result="Success" success="True" time="0.119" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsFX" executed="True" result="Success" success="True" time="0.123" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsFX()" executed="True" result="Success" success="True" time="0.122" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.042" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.041" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursement" executed="True" result="Success" success="True" time="0.117" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursement()" executed="True" result="Success" success="True" time="0.116" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursementAndCloseAccount" executed="True" result="Success" success="True" time="0.081" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursementAndCloseAccount()" executed="True" result="Success" success="True" time="0.080" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransfer" executed="True" result="Success" success="True" time="0.045" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransfer()" executed="True" result="Success" success="True" time="0.045" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransferTransaction" executed="True" result="Success" success="True" time="0.059" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransferTransaction()" executed="True" result="Success" success="True" time="0.057" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestDoubleCashTransfer" executed="True" result="Success" success="True" time="0.090" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestDoubleCashTransfer()" executed="True" result="Success" success="True" time="0.089" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursement" executed="True" result="Success" success="True" time="0.021" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursement()" executed="True" result="Success" success="True" time="0.019" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursementWithBalance" executed="True" result="Success" success="True" time="0.116" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursementWithBalance()" executed="True" result="Success" success="True" time="0.115" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestPartialSell" executed="True" result="Success" success="True" time="0.198" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestPartialSell()" executed="True" result="Success" success="True" time="0.197" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellAll" executed="True" result="Success" success="True" time="0.155" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellAll()" executed="True" result="Success" success="True" time="0.153" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellInvalidPartial" executed="True" result="Success" success="True" time="0.107" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellInvalidPartial()" executed="True" result="Success" success="True" time="0.105" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellOverMultipleAccounts" executed="True" result="Success" success="True" time="0.176" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellOverMultipleAccounts()" executed="True" result="Success" success="True" time="0.175" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactions" executed="True" result="Success" success="True" time="0.151" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactions()" executed="True" result="Success" success="True" time="0.149" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsFX" executed="True" result="Success" success="True" time="0.231" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsFX()" executed="True" result="Success" success="True" time="0.229" asserts="2" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.093" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.091" asserts="0" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="TestFundManager" executed="True" result="Success" success="True" time="0.353" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuyFund" executed="True" result="Success" success="True" time="0.095" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestBuyFund()" executed="True" result="Success" success="True" time="0.094" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellFund" executed="True" result="Success" success="True" time="0.146" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestSellFund()" executed="True" result="Success" success="True" time="0.144" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="Assembly" name="C:\Development\Thesis\trunk\Mutation\TestProject\TestingILRewrite\FundPlatform.Tests.dll" executed="True" result="Success" success="True" time="4.847" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="FundPlatform" executed="True" result="Success" success="True" time="4.846" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="4.846" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="TestClient" executed="True" result="Success" success="True" time="4.496" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuy" executed="True" result="Success" success="True" time="0.081" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuy()" executed="True" result="Success" success="True" time="0.080" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyFX" executed="True" result="Success" success="True" time="0.089" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyFX()" executed="True" result="Success" success="True" time="0.088" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactions" executed="True" result="Success" success="True" time="0.128" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactions()" executed="True" result="Success" success="True" time="0.126" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsFX" executed="True" result="Success" success="True" time="0.111" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsFX()" executed="True" result="Success" success="True" time="0.109" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.030" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursement" executed="True" result="Success" success="True" time="0.094" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursement()" executed="True" result="Success" success="True" time="0.093" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursementAndCloseAccount" executed="True" result="Success" success="True" time="0.565" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursementAndCloseAccount()" executed="True" result="Success" success="True" time="0.563" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransfer" executed="True" result="Success" success="True" time="0.058" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransfer()" executed="True" result="Success" success="True" time="0.056" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransferTransaction" executed="True" result="Success" success="True" time="0.070" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransferTransaction()" executed="True" result="Success" success="True" time="0.068" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestDoubleCashTransfer" executed="True" result="Success" success="True" time="0.104" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestDoubleCashTransfer()" executed="True" result="Success" success="True" time="0.102" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursement" executed="True" result="Success" success="True" time="0.022" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursement()" executed="True" result="Success" success="True" time="0.021" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursementWithBalance" executed="True" result="Success" success="True" time="0.088" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursementWithBalance()" executed="True" result="Success" success="True" time="0.087" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestPartialSell" executed="True" result="Success" success="True" time="0.421" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestPartialSell()" executed="True" result="Success" success="True" time="0.420" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellAll" executed="True" result="Success" success="True" time="0.119" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellAll()" executed="True" result="Success" success="True" time="0.118" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellInvalidPartial" executed="True" result="Success" success="True" time="0.131" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellInvalidPartial()" executed="True" result="Success" success="True" time="0.128" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellOverMultipleAccounts" executed="True" result="Success" success="True" time="0.167" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellOverMultipleAccounts()" executed="True" result="Success" success="True" time="0.166" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactions" executed="True" result="Success" success="True" time="0.146" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactions()" executed="True" result="Success" success="True" time="0.145" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsFX" executed="True" result="Success" success="True" time="0.146" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsFX()" executed="True" result="Success" success="True" time="0.145" asserts="2" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.021" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.017" asserts="0" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="TestFundManager" executed="True" result="Success" success="True" time="0.315" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuyFund" executed="True" result="Success" success="True" time="0.102" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestBuyFund()" executed="True" result="Success" success="True" time="0.101" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellFund" executed="True" result="Success" success="True" time="0.137" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestSellFund()" executed="True" result="Success" success="True" time="0.136" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="Assembly" name="C:\Development\Thesis\trunk\Mutation\TestProject\TestingILRewrite\FundPlatform.Tests.dll" executed="True" result="Success" success="True" time="4.257" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="FundPlatform" executed="True" result="Success" success="True" time="4.256" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="4.256" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="TestClient" executed="True" result="Success" success="True" time="3.882" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuy" executed="True" result="Success" success="True" time="0.122" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuy()" executed="True" result="Success" success="True" time="0.121" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyFX" executed="True" result="Success" success="True" time="0.101" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyFX()" executed="True" result="Success" success="True" time="0.100" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactions" executed="True" result="Success" success="True" time="0.421" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactions()" executed="True" result="Success" success="True" time="0.420" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsFX" executed="True" result="Success" success="True" time="0.124" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsFX()" executed="True" result="Success" success="True" time="0.121" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.023" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.022" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursement" executed="True" result="Success" success="True" time="0.074" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursement()" executed="True" result="Success" success="True" time="0.073" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursementAndCloseAccount" executed="True" result="Success" success="True" time="0.065" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursementAndCloseAccount()" executed="True" result="Success" success="True" time="0.064" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransfer" executed="True" result="Success" success="True" time="0.039" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransfer()" executed="True" result="Success" success="True" time="0.038" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransferTransaction" executed="True" result="Success" success="True" time="0.057" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransferTransaction()" executed="True" result="Success" success="True" time="0.055" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestDoubleCashTransfer" executed="True" result="Success" success="True" time="0.082" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestDoubleCashTransfer()" executed="True" result="Success" success="True" time="0.081" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursement" executed="True" result="Success" success="True" time="0.017" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursement()" executed="True" result="Success" success="True" time="0.016" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursementWithBalance" executed="True" result="Success" success="True" time="0.077" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursementWithBalance()" executed="True" result="Success" success="True" time="0.076" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestPartialSell" executed="True" result="Success" success="True" time="0.131" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestPartialSell()" executed="True" result="Success" success="True" time="0.130" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellAll" executed="True" result="Success" success="True" time="0.156" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellAll()" executed="True" result="Success" success="True" time="0.155" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellInvalidPartial" executed="True" result="Success" success="True" time="0.384" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellInvalidPartial()" executed="True" result="Success" success="True" time="0.383" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellOverMultipleAccounts" executed="True" result="Success" success="True" time="0.249" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellOverMultipleAccounts()" executed="True" result="Success" success="True" time="0.248" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactions" executed="True" result="Success" success="True" time="0.147" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactions()" executed="True" result="Success" success="True" time="0.144" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsFX" executed="True" result="Success" success="True" time="0.176" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsFX()" executed="True" result="Success" success="True" time="0.175" asserts="2" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.022" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.021" asserts="0" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="TestFundManager" executed="True" result="Success" success="True" time="0.337" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuyFund" executed="True" result="Success" success="True" time="0.118" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestBuyFund()" executed="True" result="Success" success="True" time="0.116" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellFund" executed="True" result="Success" success="True" time="0.144" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestSellFund()" executed="True" result="Success" success="True" time="0.143" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="Assembly" name="C:\Development\Thesis\trunk\Mutation\TestProject\TestingILRewrite\FundPlatform.Tests.dll" executed="True" result="Success" success="True" time="4.804" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="FundPlatform" executed="True" result="Success" success="True" time="4.803" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="4.802" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="TestClient" executed="True" result="Success" success="True" time="4.422" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuy" executed="True" result="Success" success="True" time="0.089" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuy()" executed="True" result="Success" success="True" time="0.087" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyFX" executed="True" result="Success" success="True" time="0.116" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyFX()" executed="True" result="Success" success="True" time="0.115" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactions" executed="True" result="Success" success="True" time="0.111" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactions()" executed="True" result="Success" success="True" time="0.110" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsFX" executed="True" result="Success" success="True" time="0.127" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsFX()" executed="True" result="Success" success="True" time="0.126" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.024" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.023" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursement" executed="True" result="Success" success="True" time="0.074" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursement()" executed="True" result="Success" success="True" time="0.073" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursementAndCloseAccount" executed="True" result="Success" success="True" time="0.094" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursementAndCloseAccount()" executed="True" result="Success" success="True" time="0.092" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransfer" executed="True" result="Success" success="True" time="0.050" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransfer()" executed="True" result="Success" success="True" time="0.049" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransferTransaction" executed="True" result="Success" success="True" time="0.058" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransferTransaction()" executed="True" result="Success" success="True" time="0.057" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestDoubleCashTransfer" executed="True" result="Success" success="True" time="0.076" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestDoubleCashTransfer()" executed="True" result="Success" success="True" time="0.075" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursement" executed="True" result="Success" success="True" time="0.017" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursement()" executed="True" result="Success" success="True" time="0.016" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursementWithBalance" executed="True" result="Success" success="True" time="0.075" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursementWithBalance()" executed="True" result="Success" success="True" time="0.073" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestPartialSell" executed="True" result="Success" success="True" time="0.137" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestPartialSell()" executed="True" result="Success" success="True" time="0.135" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellAll" executed="True" result="Success" success="True" time="0.427" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellAll()" executed="True" result="Success" success="True" time="0.426" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellInvalidPartial" executed="True" result="Success" success="True" time="0.099" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellInvalidPartial()" executed="True" result="Success" success="True" time="0.097" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellOverMultipleAccounts" executed="True" result="Success" success="True" time="0.152" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellOverMultipleAccounts()" executed="True" result="Success" success="True" time="0.151" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactions" executed="True" result="Success" success="True" time="0.199" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactions()" executed="True" result="Success" success="True" time="0.197" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsFX" executed="True" result="Success" success="True" time="0.791" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsFX()" executed="True" result="Success" success="True" time="0.789" asserts="2" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.019" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.018" asserts="0" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="TestFundManager" executed="True" result="Success" success="True" time="0.347" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuyFund" executed="True" result="Success" success="True" time="0.111" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestBuyFund()" executed="True" result="Success" success="True" time="0.110" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellFund" executed="True" result="Success" success="True" time="0.148" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestSellFund()" executed="True" result="Success" success="True" time="0.147" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="Assembly" name="C:\Development\Thesis\trunk\Mutation\TestProject\TestingILRewrite\FundPlatform.Tests.dll" executed="True" result="Success" success="True" time="4.603" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="FundPlatform" executed="True" result="Success" success="True" time="4.603" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="4.602" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="TestClient" executed="True" result="Success" success="True" time="4.171" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuy" executed="True" result="Success" success="True" time="0.114" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuy()" executed="True" result="Success" success="True" time="0.112" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyFX" executed="True" result="Success" success="True" time="0.107" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyFX()" executed="True" result="Success" success="True" time="0.106" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactions" executed="True" result="Success" success="True" time="0.102" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactions()" executed="True" result="Success" success="True" time="0.100" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsFX" executed="True" result="Success" success="True" time="0.157" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsFX()" executed="True" result="Success" success="True" time="0.155" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestBuyTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.029" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestBuyTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.027" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursement" executed="True" result="Success" success="True" time="0.082" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursement()" executed="True" result="Success" success="True" time="0.080" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashDisbursementAndCloseAccount" executed="True" result="Success" success="True" time="0.075" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashDisbursementAndCloseAccount()" executed="True" result="Success" success="True" time="0.074" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransfer" executed="True" result="Success" success="True" time="0.043" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransfer()" executed="True" result="Success" success="True" time="0.042" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestCashTransferTransaction" executed="True" result="Success" success="True" time="0.048" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestCashTransferTransaction()" executed="True" result="Success" success="True" time="0.047" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestDoubleCashTransfer" executed="True" result="Success" success="True" time="0.087" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestDoubleCashTransfer()" executed="True" result="Success" success="True" time="0.086" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursement" executed="True" result="Success" success="True" time="0.021" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursement()" executed="True" result="Success" success="True" time="0.019" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestInvalidCashDisbursementWithBalance" executed="True" result="Success" success="True" time="0.082" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestInvalidCashDisbursementWithBalance()" executed="True" result="Success" success="True" time="0.080" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestPartialSell" executed="True" result="Success" success="True" time="0.137" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestPartialSell()" executed="True" result="Success" success="True" time="0.136" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellAll" executed="True" result="Success" success="True" time="0.134" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellAll()" executed="True" result="Success" success="True" time="0.133" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellInvalidPartial" executed="True" result="Success" success="True" time="0.120" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellInvalidPartial()" executed="True" result="Success" success="True" time="0.118" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellOverMultipleAccounts" executed="True" result="Success" success="True" time="0.504" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellOverMultipleAccounts()" executed="True" result="Success" success="True" time="0.503" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactions" executed="True" result="Success" success="True" time="0.174" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactions()" executed="True" result="Success" success="True" time="0.173" asserts="5" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsFX" executed="True" result="Success" success="True" time="0.165" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsFX()" executed="True" result="Success" success="True" time="0.164" asserts="2" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellTransactionsWithoutBalance" executed="True" result="Success" success="True" time="0.029" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestClient.TestSellTransactionsWithoutBalance()" executed="True" result="Success" success="True" time="0.027" asserts="0" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="TestFundManager" executed="True" result="Success" success="True" time="0.399" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TestBuyFund" executed="True" result="Success" success="True" time="0.124" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestBuyFund()" executed="True" result="Success" success="True" time="0.122" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="ParameterizedTest" name="TestSellFund" executed="True" result="Success" success="True" time="0.146" asserts="0">
+                        <results>
+                          <test-case name="FundPlatform.Tests.TestFundManager.TestSellFund()" executed="True" result="Success" success="True" time="0.145" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

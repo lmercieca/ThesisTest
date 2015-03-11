@@ -1,0 +1,16 @@
+C:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\LoggerTest.exe
+C:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\ILLogger.dll
+C:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\ILLogger.pdb
+C:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+C:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\obj\Debug\LoggerTest.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\LoggerTest.exe.config
+D:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\LoggerTest.exe
+D:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\LoggerTest.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\ILLogger.dll
+D:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\bin\Debug\ILLogger.pdb
+D:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+D:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\obj\Debug\LoggerTest.exe
+D:\Development\Thesis\trunk\Mutation\TestProject\LoggerTest\obj\Debug\LoggerTest.pdb

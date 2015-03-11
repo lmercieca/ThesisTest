@@ -1,0 +1,9 @@
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\bin\Debug\FundPlatform.Console.exe
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\bin\Debug\TestProject.dll
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\bin\Debug\TestProject.pdb
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\obj\x86\Debug\FundPlatform.Console.csprojResolveAssemblyReference.cache
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\bin\Debug\FundPlatformConsole.exe.config
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\bin\Debug\FundPlatformConsole.exe
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\bin\Debug\FundPlatformConsole.pdb
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\obj\x86\Debug\FundPlatformConsole.exe
+C:\Development\Misc\Thesis\Mutation\TestProject\Console\FundPlatform.Console\obj\x86\Debug\FundPlatformConsole.pdb

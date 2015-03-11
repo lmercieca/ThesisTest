@@ -1,0 +1,16 @@
+﻿<Project Format="0.0.0.3">
+  <Version>2013-10-31T12:29:00.8587366Z</Version>
+  <Binding>True</Binding>
+  <Diagnostic>
+    <Code>1029</Code>
+    <Id>CS1029</Id>
+    <Severity>Error</Severity>
+    <Message>#error: 'PostSharp is not introduced in the build process. If NuGet just restored the PostSharp package, you need to rebuild the solution.'</Message>
+    <MappedFile>C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\PostShrp\RequiresPostSharp.cs</MappedFile>
+    <MappedLine>9</MappedLine>
+    <MappedColumn>7</MappedColumn>
+    <OriginalFile>C:\Development\Development\Misc\Thesis\dependencytrackerV3\trunk\Mutation\TestProject\PostShrp\RequiresPostSharp.cs</OriginalFile>
+    <OriginalLine>9</OriginalLine>
+    <OriginalColumn>7</OriginalColumn>
+  </Diagnostic>
+</Project>

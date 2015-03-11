@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PostSharp-Aspects</id>
+    <version>1.0.0.2</version>
+    <title>PostSharp-Aspects</title>
+    <authors>Chad England</authors>
+    <owners>Chad England</owners>
+    <projectUrl>http://chadit.wordpress.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Note: Not an offical product of PostSharp.  If any aspect can be improved please let me know.-----------------------------------
+
+Requires PostSharp.  (Visit http://www.sharpcrafters.com/ ) ---
+What is AoP (Visit http://en.wikipedia.org/wiki/Aspect-oriented_programming) ---
+
+Why use PostSharp over DI (Visit http://www.sharpcrafters.com/blog/post/AOP-in-C-Over-Anders-Hejlsberge28099s-Dead-Body!.aspx) ---
+
+PostSharp is an AOP framework for .NET that helps you produce versatile and robust applications with fewer lines of code. Weave new behaviors into existing code without modifying source code, simplify maintenance, and free up time to code business application logic - the code that truly matters to your customers. Free 45-day evaluation period. Then choose between limited free edition and full-featured commercial edition licenses.</description>
+    <summary>Add simple PostSharp Aspects into a project.</summary>
+    <releaseNotes>1.0.0.2 -- Updated ExceptionHandlerAttribute -- fixed small issue if innertext was null
+1.0.0.1 -- Added Aspect for NotifyPropertyChanged
+Inital Release -- Aspects added for Exception handling, Tracing, and Profiling.</releaseNotes>
+    <copyright />
+    <language />
+    <tags>postsharp sharcrafters post-compiler postcompiler aop aspect aosd castle spring dynamic interceptor interception linfu unity dependency di monitoring instrumentation logging tracing</tags>
+    <dependencies>
+      <dependency id="PostSharp" version="2.1.5.1" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

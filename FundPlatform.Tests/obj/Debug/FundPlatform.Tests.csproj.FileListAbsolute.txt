@@ -74,3 +74,15 @@ D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\b
 D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.csprojResolveAssemblyReference.cache
 D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.dll
 D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.pdb
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\FundPlatform.Tests.dll
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\FundPlatform.Tests.pdb
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\Moq.dll
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\nunit.framework.dll
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\TestProject.dll
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\TestProject.pdb
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\Moq.pdb
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\Moq.xml
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\bin\Debug\nunit.framework.xml
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.csprojResolveAssemblyReference.cache
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.dll
+C:\Backup\Project Thesis\ThesisTest\FundPlatform.Tests\obj\Debug\FundPlatform.Tests.pdb

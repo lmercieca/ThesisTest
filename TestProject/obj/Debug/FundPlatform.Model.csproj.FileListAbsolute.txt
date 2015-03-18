@@ -33,3 +33,8 @@ D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\bin\Debu
 D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\obj\Debug\FundPlatform.Model.csprojResolveAssemblyReference.cache
 D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\obj\Debug\TestProject.dll
 D:\Development\Thesis\trunk\Mutation\TestProject\ThesisTest\TestProject\obj\Debug\TestProject.pdb
+C:\Backup\Project Thesis\ThesisTest\TestProject\bin\Debug\TestProject.dll
+C:\Backup\Project Thesis\ThesisTest\TestProject\bin\Debug\TestProject.pdb
+C:\Backup\Project Thesis\ThesisTest\TestProject\obj\Debug\FundPlatform.Model.csprojResolveAssemblyReference.cache
+C:\Backup\Project Thesis\ThesisTest\TestProject\obj\Debug\TestProject.dll
+C:\Backup\Project Thesis\ThesisTest\TestProject\obj\Debug\TestProject.pdb

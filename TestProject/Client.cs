@@ -157,6 +157,7 @@ namespace TestProject
         {
             // Added change to test affected tests
             Fund fnd = new FundManager().GetFundByISIN(ISIN);
+            TestMethod();
 
             if (fnd != null)
             {
@@ -178,8 +179,11 @@ namespace TestProject
                         Funds.Remove(fnd);
 
                 }
-
             }
+        }
+
+        public void TestMethod()
+        {
         }
     }
 }

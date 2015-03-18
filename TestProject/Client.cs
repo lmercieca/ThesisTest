@@ -185,5 +185,10 @@ namespace TestProject
         public void TestMethod()
         {
         }
+
+        public static string TestMethod(string enter)
+        {
+            return "";
+        }
     }
 }

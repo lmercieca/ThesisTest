@@ -26,3 +26,5 @@ C:\Backup\Project Thesis\ThesisTest\PostShrp\bin\Debug\PostSharp.xml
 C:\Backup\Project Thesis\ThesisTest\PostShrp\obj\Debug\PostShrp.csprojResolveAssemblyReference.cache
 C:\Backup\Project Thesis\ThesisTest\PostShrp\obj\Debug\PostShrp.dll
 C:\Backup\Project Thesis\ThesisTest\PostShrp\obj\Debug\PostShrp.pdb
+C:\Backup\Project Thesis\ThesisTest\PostShrp\bin\Debug\PostShrp.dll
+C:\Backup\Project Thesis\ThesisTest\PostShrp\bin\Debug\PostShrp.pdb

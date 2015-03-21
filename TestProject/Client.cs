@@ -190,5 +190,10 @@ namespace TestProject
         {
             return "";
         }
+
+        public void  YetAnotherTestMethod(string enter)
+        {
+            return "";
+        }
     }
 }

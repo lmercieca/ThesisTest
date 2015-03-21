@@ -157,8 +157,7 @@ namespace TestProject
         {
             // Added change to test affected tests
             Fund fnd = new FundManager().GetFundByISIN(ISIN);
-            TestMethod();
-
+          
             if (fnd != null)
             {
                 if (!Funds.ContainsKey(fnd))
@@ -182,10 +181,7 @@ namespace TestProject
             }
         }
 
-        public void TestMethod()
-        {
-            YetAnotherTestMethod("");
-        }
+       
 
         public static string TestMethod(string enter)
         {

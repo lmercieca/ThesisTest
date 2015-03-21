@@ -155,7 +155,7 @@ namespace TestProject
 
         public void SellFund(string ISIN, decimal amount)
         {
-            YetAnotherTestMethod("");
+            YetAnotherTestMethod();
 
             // Added change to test affected tests
             Fund fnd = new FundManager().GetFundByISIN(ISIN);
@@ -190,7 +190,7 @@ namespace TestProject
             return "";
         }
 
-        public void  YetAnotherTestMethod(string enter)
+        public void  YetAnotherTestMethod()
         {
         }
     }

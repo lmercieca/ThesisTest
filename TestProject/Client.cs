@@ -184,6 +184,7 @@ namespace TestProject
 
         public void TestMethod()
         {
+            YetAnotherTestMethod("");
         }
 
         public static string TestMethod(string enter)
@@ -193,7 +194,6 @@ namespace TestProject
 
         public void  YetAnotherTestMethod(string enter)
         {
-            return "";
         }
     }
 }
